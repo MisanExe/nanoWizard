@@ -3,4 +3,5 @@ I hate making new settings for nano every time i brick a pi and install a new im
 ## install
 run './install.sh' to install
 ## usage 
+### nanoWizard [command] <args>
 ![Application Overview](./media/sample.png)
