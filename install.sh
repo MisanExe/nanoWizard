@@ -7,7 +7,7 @@ installed="/usr/local/src/nanoWizard/installed"
 if [ ! -d "$src_directory" ]; then 
     sudo mkdir /usr/local/src/nanoWizard
     if [ ! $? -eq 0 ]; then
-        echo "Failed to create required directory '$directory' "
+        echo "Failed to create required directory '$directory'  "
         exit 1
     fi
 fi
